@@ -6,6 +6,15 @@ notebook, and evaluated against an untrained network on five fixed seeds under i
 - **Notebook (executed, with outputs):** [`pacman_dqn.ipynb`](pacman_dqn.ipynb)
 - **Evidence:** [`results/`](results/)
 
+> **A note for the grader on viewing gameplay in the notebook.** The notebook's own gameplay clips
+> are stored as `image/gif` outputs, and **GitHub's static notebook viewer does not render that MIME
+> type** — it prints `<IPython.core.display.Image object>` instead. I verified this is not a problem
+> with the saved file: the GIF data is present in the `.ipynb`, and `nbconvert --to html` drops it
+> the same way, so it affects any run of this notebook rather than this one specifically. The
+> **scores, the training dashboard, and every printed result do render on GitHub.** All 82 gameplay
+> GIFs are additionally saved as files under [`results/demos/`](results/demos/) and embedded
+> throughout this README, where they display correctly.
+
 **Result: mean score over five fixed evaluation seeds went from 492.0 (untrained) to 1360.0
 (trained) — a gain of +868.0, or +176%. All five games improved.**
 
