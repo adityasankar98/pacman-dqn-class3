@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Raw run output: every experiment writes a timestamped folder plus a ZIP.
+# Selected evidence is copied into results/ and committed; the rest stays local.
+pacman_runs/
+*.zip
+
+# Model checkpoints are large; kept in the local ZIP (see README).
+*.pt
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

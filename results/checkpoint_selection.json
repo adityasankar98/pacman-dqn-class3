@@ -1,0 +1,1003 @@
+{
+  "holdout_seeds": [
+    1001,
+    2002,
+    3003,
+    4004,
+    5005
+  ],
+  "reported_eval_seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "eval_exploration": 0.05,
+  "selected": {
+    "checkpoint": "episode_1575.pt",
+    "episode": 1575,
+    "holdout_scores": [
+      970.0,
+      1190.0,
+      3270.0,
+      1610.0,
+      1260.0
+    ],
+    "holdout_mean": 1660.0
+  },
+  "all_candidates": [
+    {
+      "checkpoint": "episode_0025.pt",
+      "episode": 25,
+      "holdout_scores": [
+        260.0,
+        220.0,
+        840.0,
+        420.0,
+        260.0
+      ],
+      "holdout_mean": 400.0
+    },
+    {
+      "checkpoint": "episode_0050.pt",
+      "episode": 50,
+      "holdout_scores": [
+        410.0,
+        180.0,
+        1500.0,
+        490.0,
+        120.0
+      ],
+      "holdout_mean": 540.0
+    },
+    {
+      "checkpoint": "episode_0075.pt",
+      "episode": 75,
+      "holdout_scores": [
+        790.0,
+        610.0,
+        970.0,
+        430.0,
+        1020.0
+      ],
+      "holdout_mean": 764.0
+    },
+    {
+      "checkpoint": "episode_0100.pt",
+      "episode": 100,
+      "holdout_scores": [
+        320.0,
+        390.0,
+        480.0,
+        370.0,
+        510.0
+      ],
+      "holdout_mean": 414.0
+    },
+    {
+      "checkpoint": "episode_0125.pt",
+      "episode": 125,
+      "holdout_scores": [
+        460.0,
+        200.0,
+        260.0,
+        400.0,
+        1040.0
+      ],
+      "holdout_mean": 472.0
+    },
+    {
+      "checkpoint": "episode_0150.pt",
+      "episode": 150,
+      "holdout_scores": [
+        320.0,
+        290.0,
+        1380.0,
+        570.0,
+        370.0
+      ],
+      "holdout_mean": 586.0
+    },
+    {
+      "checkpoint": "episode_0175.pt",
+      "episode": 175,
+      "holdout_scores": [
+        1030.0,
+        100.0,
+        310.0,
+        560.0,
+        350.0
+      ],
+      "holdout_mean": 470.0
+    },
+    {
+      "checkpoint": "episode_0200.pt",
+      "episode": 200,
+      "holdout_scores": [
+        500.0,
+        1120.0,
+        400.0,
+        480.0,
+        510.0
+      ],
+      "holdout_mean": 602.0
+    },
+    {
+      "checkpoint": "episode_0225.pt",
+      "episode": 225,
+      "holdout_scores": [
+        320.0,
+        780.0,
+        380.0,
+        340.0,
+        500.0
+      ],
+      "holdout_mean": 464.0
+    },
+    {
+      "checkpoint": "episode_0250.pt",
+      "episode": 250,
+      "holdout_scores": [
+        980.0,
+        2250.0,
+        670.0,
+        370.0,
+        420.0
+      ],
+      "holdout_mean": 938.0
+    },
+    {
+      "checkpoint": "episode_0275.pt",
+      "episode": 275,
+      "holdout_scores": [
+        530.0,
+        520.0,
+        210.0,
+        1880.0,
+        420.0
+      ],
+      "holdout_mean": 712.0
+    },
+    {
+      "checkpoint": "episode_0300.pt",
+      "episode": 300,
+      "holdout_scores": [
+        560.0,
+        840.0,
+        160.0,
+        730.0,
+        580.0
+      ],
+      "holdout_mean": 574.0
+    },
+    {
+      "checkpoint": "episode_0325.pt",
+      "episode": 325,
+      "holdout_scores": [
+        510.0,
+        610.0,
+        840.0,
+        380.0,
+        500.0
+      ],
+      "holdout_mean": 568.0
+    },
+    {
+      "checkpoint": "episode_0350.pt",
+      "episode": 350,
+      "holdout_scores": [
+        540.0,
+        770.0,
+        500.0,
+        460.0,
+        480.0
+      ],
+      "holdout_mean": 550.0
+    },
+    {
+      "checkpoint": "episode_0375.pt",
+      "episode": 375,
+      "holdout_scores": [
+        540.0,
+        1080.0,
+        1590.0,
+        550.0,
+        810.0
+      ],
+      "holdout_mean": 914.0
+    },
+    {
+      "checkpoint": "episode_0400.pt",
+      "episode": 400,
+      "holdout_scores": [
+        440.0,
+        1220.0,
+        1660.0,
+        770.0,
+        1630.0
+      ],
+      "holdout_mean": 1144.0
+    },
+    {
+      "checkpoint": "episode_0425.pt",
+      "episode": 425,
+      "holdout_scores": [
+        1810.0,
+        430.0,
+        1310.0,
+        1280.0,
+        1640.0
+      ],
+      "holdout_mean": 1294.0
+    },
+    {
+      "checkpoint": "episode_0450.pt",
+      "episode": 450,
+      "holdout_scores": [
+        750.0,
+        850.0,
+        1240.0,
+        1430.0,
+        1130.0
+      ],
+      "holdout_mean": 1080.0
+    },
+    {
+      "checkpoint": "episode_0475.pt",
+      "episode": 475,
+      "holdout_scores": [
+        620.0,
+        360.0,
+        1480.0,
+        890.0,
+        1580.0
+      ],
+      "holdout_mean": 986.0
+    },
+    {
+      "checkpoint": "episode_0500.pt",
+      "episode": 500,
+      "holdout_scores": [
+        870.0,
+        970.0,
+        880.0,
+        1330.0,
+        920.0
+      ],
+      "holdout_mean": 994.0
+    },
+    {
+      "checkpoint": "episode_0525.pt",
+      "episode": 525,
+      "holdout_scores": [
+        1260.0,
+        760.0,
+        1420.0,
+        880.0,
+        1310.0
+      ],
+      "holdout_mean": 1126.0
+    },
+    {
+      "checkpoint": "episode_0550.pt",
+      "episode": 550,
+      "holdout_scores": [
+        380.0,
+        1150.0,
+        600.0,
+        510.0,
+        530.0
+      ],
+      "holdout_mean": 634.0
+    },
+    {
+      "checkpoint": "episode_0575.pt",
+      "episode": 575,
+      "holdout_scores": [
+        290.0,
+        310.0,
+        210.0,
+        420.0,
+        310.0
+      ],
+      "holdout_mean": 308.0
+    },
+    {
+      "checkpoint": "episode_0600.pt",
+      "episode": 600,
+      "holdout_scores": [
+        90.0,
+        830.0,
+        540.0,
+        860.0,
+        500.0
+      ],
+      "holdout_mean": 564.0
+    },
+    {
+      "checkpoint": "episode_0625.pt",
+      "episode": 625,
+      "holdout_scores": [
+        1020.0,
+        700.0,
+        420.0,
+        440.0,
+        550.0
+      ],
+      "holdout_mean": 626.0
+    },
+    {
+      "checkpoint": "episode_0650.pt",
+      "episode": 650,
+      "holdout_scores": [
+        1350.0,
+        880.0,
+        790.0,
+        950.0,
+        480.0
+      ],
+      "holdout_mean": 890.0
+    },
+    {
+      "checkpoint": "episode_0675.pt",
+      "episode": 675,
+      "holdout_scores": [
+        950.0,
+        780.0,
+        1340.0,
+        840.0,
+        540.0
+      ],
+      "holdout_mean": 890.0
+    },
+    {
+      "checkpoint": "episode_0700.pt",
+      "episode": 700,
+      "holdout_scores": [
+        550.0,
+        500.0,
+        1080.0,
+        1420.0,
+        1490.0
+      ],
+      "holdout_mean": 1008.0
+    },
+    {
+      "checkpoint": "episode_0725.pt",
+      "episode": 725,
+      "holdout_scores": [
+        450.0,
+        520.0,
+        910.0,
+        620.0,
+        490.0
+      ],
+      "holdout_mean": 598.0
+    },
+    {
+      "checkpoint": "episode_0750.pt",
+      "episode": 750,
+      "holdout_scores": [
+        690.0,
+        1010.0,
+        580.0,
+        720.0,
+        440.0
+      ],
+      "holdout_mean": 688.0
+    },
+    {
+      "checkpoint": "episode_0775.pt",
+      "episode": 775,
+      "holdout_scores": [
+        700.0,
+        910.0,
+        660.0,
+        770.0,
+        460.0
+      ],
+      "holdout_mean": 700.0
+    },
+    {
+      "checkpoint": "episode_0800.pt",
+      "episode": 800,
+      "holdout_scores": [
+        710.0,
+        790.0,
+        430.0,
+        920.0,
+        1000.0
+      ],
+      "holdout_mean": 770.0
+    },
+    {
+      "checkpoint": "episode_0825.pt",
+      "episode": 825,
+      "holdout_scores": [
+        380.0,
+        820.0,
+        670.0,
+        1020.0,
+        730.0
+      ],
+      "holdout_mean": 724.0
+    },
+    {
+      "checkpoint": "episode_0850.pt",
+      "episode": 850,
+      "holdout_scores": [
+        1000.0,
+        1030.0,
+        850.0,
+        4040.0,
+        1140.0
+      ],
+      "holdout_mean": 1612.0
+    },
+    {
+      "checkpoint": "episode_0875.pt",
+      "episode": 875,
+      "holdout_scores": [
+        870.0,
+        960.0,
+        930.0,
+        1030.0,
+        960.0
+      ],
+      "holdout_mean": 950.0
+    },
+    {
+      "checkpoint": "episode_0900.pt",
+      "episode": 900,
+      "holdout_scores": [
+        660.0,
+        1180.0,
+        1630.0,
+        2160.0,
+        1080.0
+      ],
+      "holdout_mean": 1342.0
+    },
+    {
+      "checkpoint": "episode_0925.pt",
+      "episode": 925,
+      "holdout_scores": [
+        1430.0,
+        450.0,
+        1090.0,
+        960.0,
+        1620.0
+      ],
+      "holdout_mean": 1110.0
+    },
+    {
+      "checkpoint": "episode_0950.pt",
+      "episode": 950,
+      "holdout_scores": [
+        1810.0,
+        1250.0,
+        2580.0,
+        1120.0,
+        730.0
+      ],
+      "holdout_mean": 1498.0
+    },
+    {
+      "checkpoint": "episode_0975.pt",
+      "episode": 975,
+      "holdout_scores": [
+        1390.0,
+        1340.0,
+        550.0,
+        760.0,
+        540.0
+      ],
+      "holdout_mean": 916.0
+    },
+    {
+      "checkpoint": "episode_1000.pt",
+      "episode": 1000,
+      "holdout_scores": [
+        1580.0,
+        930.0,
+        750.0,
+        440.0,
+        730.0
+      ],
+      "holdout_mean": 886.0
+    },
+    {
+      "checkpoint": "episode_1025.pt",
+      "episode": 1025,
+      "holdout_scores": [
+        1140.0,
+        670.0,
+        940.0,
+        830.0,
+        1540.0
+      ],
+      "holdout_mean": 1024.0
+    },
+    {
+      "checkpoint": "episode_1050.pt",
+      "episode": 1050,
+      "holdout_scores": [
+        1770.0,
+        1330.0,
+        740.0,
+        450.0,
+        1090.0
+      ],
+      "holdout_mean": 1076.0
+    },
+    {
+      "checkpoint": "episode_1075.pt",
+      "episode": 1075,
+      "holdout_scores": [
+        1020.0,
+        1660.0,
+        1190.0,
+        2420.0,
+        690.0
+      ],
+      "holdout_mean": 1396.0
+    },
+    {
+      "checkpoint": "episode_1100.pt",
+      "episode": 1100,
+      "holdout_scores": [
+        860.0,
+        700.0,
+        1510.0,
+        1100.0,
+        770.0
+      ],
+      "holdout_mean": 988.0
+    },
+    {
+      "checkpoint": "episode_1125.pt",
+      "episode": 1125,
+      "holdout_scores": [
+        1150.0,
+        1230.0,
+        1700.0,
+        800.0,
+        2150.0
+      ],
+      "holdout_mean": 1406.0
+    },
+    {
+      "checkpoint": "episode_1150.pt",
+      "episode": 1150,
+      "holdout_scores": [
+        1270.0,
+        980.0,
+        670.0,
+        2200.0,
+        1290.0
+      ],
+      "holdout_mean": 1282.0
+    },
+    {
+      "checkpoint": "episode_1175.pt",
+      "episode": 1175,
+      "holdout_scores": [
+        540.0,
+        490.0,
+        810.0,
+        130.0,
+        410.0
+      ],
+      "holdout_mean": 476.0
+    },
+    {
+      "checkpoint": "episode_1200.pt",
+      "episode": 1200,
+      "holdout_scores": [
+        1110.0,
+        1020.0,
+        1100.0,
+        960.0,
+        820.0
+      ],
+      "holdout_mean": 1002.0
+    },
+    {
+      "checkpoint": "episode_1225.pt",
+      "episode": 1225,
+      "holdout_scores": [
+        1110.0,
+        840.0,
+        940.0,
+        760.0,
+        980.0
+      ],
+      "holdout_mean": 926.0
+    },
+    {
+      "checkpoint": "episode_1250.pt",
+      "episode": 1250,
+      "holdout_scores": [
+        510.0,
+        420.0,
+        240.0,
+        520.0,
+        500.0
+      ],
+      "holdout_mean": 438.0
+    },
+    {
+      "checkpoint": "episode_1275.pt",
+      "episode": 1275,
+      "holdout_scores": [
+        2590.0,
+        940.0,
+        550.0,
+        1770.0,
+        1320.0
+      ],
+      "holdout_mean": 1434.0
+    },
+    {
+      "checkpoint": "episode_1300.pt",
+      "episode": 1300,
+      "holdout_scores": [
+        990.0,
+        1110.0,
+        1580.0,
+        940.0,
+        900.0
+      ],
+      "holdout_mean": 1104.0
+    },
+    {
+      "checkpoint": "episode_1325.pt",
+      "episode": 1325,
+      "holdout_scores": [
+        1240.0,
+        930.0,
+        1450.0,
+        750.0,
+        3120.0
+      ],
+      "holdout_mean": 1498.0
+    },
+    {
+      "checkpoint": "episode_1350.pt",
+      "episode": 1350,
+      "holdout_scores": [
+        2100.0,
+        1740.0,
+        550.0,
+        680.0,
+        2260.0
+      ],
+      "holdout_mean": 1466.0
+    },
+    {
+      "checkpoint": "episode_1375.pt",
+      "episode": 1375,
+      "holdout_scores": [
+        950.0,
+        1250.0,
+        830.0,
+        790.0,
+        1490.0
+      ],
+      "holdout_mean": 1062.0
+    },
+    {
+      "checkpoint": "episode_1400.pt",
+      "episode": 1400,
+      "holdout_scores": [
+        680.0,
+        730.0,
+        990.0,
+        1280.0,
+        940.0
+      ],
+      "holdout_mean": 924.0
+    },
+    {
+      "checkpoint": "episode_1425.pt",
+      "episode": 1425,
+      "holdout_scores": [
+        770.0,
+        830.0,
+        1410.0,
+        1060.0,
+        1070.0
+      ],
+      "holdout_mean": 1028.0
+    },
+    {
+      "checkpoint": "episode_1450.pt",
+      "episode": 1450,
+      "holdout_scores": [
+        1190.0,
+        1070.0,
+        1410.0,
+        1410.0,
+        1870.0
+      ],
+      "holdout_mean": 1390.0
+    },
+    {
+      "checkpoint": "episode_1475.pt",
+      "episode": 1475,
+      "holdout_scores": [
+        1300.0,
+        1620.0,
+        1030.0,
+        2090.0,
+        1140.0
+      ],
+      "holdout_mean": 1436.0
+    },
+    {
+      "checkpoint": "episode_1500.pt",
+      "episode": 1500,
+      "holdout_scores": [
+        340.0,
+        570.0,
+        1100.0,
+        300.0,
+        690.0
+      ],
+      "holdout_mean": 600.0
+    },
+    {
+      "checkpoint": "episode_1525.pt",
+      "episode": 1525,
+      "holdout_scores": [
+        1190.0,
+        730.0,
+        800.0,
+        310.0,
+        810.0
+      ],
+      "holdout_mean": 768.0
+    },
+    {
+      "checkpoint": "episode_1550.pt",
+      "episode": 1550,
+      "holdout_scores": [
+        1200.0,
+        1920.0,
+        1340.0,
+        1200.0,
+        1020.0
+      ],
+      "holdout_mean": 1336.0
+    },
+    {
+      "checkpoint": "episode_1575.pt",
+      "episode": 1575,
+      "holdout_scores": [
+        970.0,
+        1190.0,
+        3270.0,
+        1610.0,
+        1260.0
+      ],
+      "holdout_mean": 1660.0
+    },
+    {
+      "checkpoint": "episode_1600.pt",
+      "episode": 1600,
+      "holdout_scores": [
+        200.0,
+        1070.0,
+        470.0,
+        610.0,
+        360.0
+      ],
+      "holdout_mean": 542.0
+    },
+    {
+      "checkpoint": "episode_1625.pt",
+      "episode": 1625,
+      "holdout_scores": [
+        870.0,
+        830.0,
+        420.0,
+        600.0,
+        430.0
+      ],
+      "holdout_mean": 630.0
+    },
+    {
+      "checkpoint": "episode_1650.pt",
+      "episode": 1650,
+      "holdout_scores": [
+        1630.0,
+        630.0,
+        1480.0,
+        840.0,
+        450.0
+      ],
+      "holdout_mean": 1006.0
+    },
+    {
+      "checkpoint": "episode_1675.pt",
+      "episode": 1675,
+      "holdout_scores": [
+        1690.0,
+        1310.0,
+        780.0,
+        960.0,
+        930.0
+      ],
+      "holdout_mean": 1134.0
+    },
+    {
+      "checkpoint": "episode_1700.pt",
+      "episode": 1700,
+      "holdout_scores": [
+        310.0,
+        830.0,
+        600.0,
+        720.0,
+        570.0
+      ],
+      "holdout_mean": 606.0
+    },
+    {
+      "checkpoint": "episode_1725.pt",
+      "episode": 1725,
+      "holdout_scores": [
+        990.0,
+        570.0,
+        750.0,
+        670.0,
+        1080.0
+      ],
+      "holdout_mean": 812.0
+    },
+    {
+      "checkpoint": "episode_1750.pt",
+      "episode": 1750,
+      "holdout_scores": [
+        1140.0,
+        2380.0,
+        970.0,
+        850.0,
+        1660.0
+      ],
+      "holdout_mean": 1400.0
+    },
+    {
+      "checkpoint": "episode_1775.pt",
+      "episode": 1775,
+      "holdout_scores": [
+        840.0,
+        1150.0,
+        680.0,
+        1870.0,
+        2260.0
+      ],
+      "holdout_mean": 1360.0
+    },
+    {
+      "checkpoint": "episode_1800.pt",
+      "episode": 1800,
+      "holdout_scores": [
+        270.0,
+        850.0,
+        2050.0,
+        840.0,
+        520.0
+      ],
+      "holdout_mean": 906.0
+    },
+    {
+      "checkpoint": "episode_1825.pt",
+      "episode": 1825,
+      "holdout_scores": [
+        1280.0,
+        940.0,
+        890.0,
+        1110.0,
+        1660.0
+      ],
+      "holdout_mean": 1176.0
+    },
+    {
+      "checkpoint": "episode_1850.pt",
+      "episode": 1850,
+      "holdout_scores": [
+        1470.0,
+        1310.0,
+        1320.0,
+        800.0,
+        1150.0
+      ],
+      "holdout_mean": 1210.0
+    },
+    {
+      "checkpoint": "episode_1875.pt",
+      "episode": 1875,
+      "holdout_scores": [
+        640.0,
+        2390.0,
+        1820.0,
+        1510.0,
+        1020.0
+      ],
+      "holdout_mean": 1476.0
+    },
+    {
+      "checkpoint": "episode_1900.pt",
+      "episode": 1900,
+      "holdout_scores": [
+        920.0,
+        990.0,
+        570.0,
+        1550.0,
+        1710.0
+      ],
+      "holdout_mean": 1148.0
+    },
+    {
+      "checkpoint": "episode_1925.pt",
+      "episode": 1925,
+      "holdout_scores": [
+        1550.0,
+        1450.0,
+        1040.0,
+        940.0,
+        970.0
+      ],
+      "holdout_mean": 1190.0
+    },
+    {
+      "checkpoint": "episode_1950.pt",
+      "episode": 1950,
+      "holdout_scores": [
+        1240.0,
+        1110.0,
+        1030.0,
+        1490.0,
+        1510.0
+      ],
+      "holdout_mean": 1276.0
+    },
+    {
+      "checkpoint": "episode_1975.pt",
+      "episode": 1975,
+      "holdout_scores": [
+        1150.0,
+        1110.0,
+        1250.0,
+        710.0,
+        1250.0
+      ],
+      "holdout_mean": 1094.0
+    },
+    {
+      "checkpoint": "episode_2000.pt",
+      "episode": 2000,
+      "holdout_scores": [
+        1250.0,
+        1580.0,
+        910.0,
+        1770.0,
+        1000.0
+      ],
+      "holdout_mean": 1302.0
+    },
+    {
+      "checkpoint": "trained.pt",
+      "episode": 2000,
+      "holdout_scores": [
+        1250.0,
+        1580.0,
+        910.0,
+        1770.0,
+        1000.0
+      ],
+      "holdout_mean": 1302.0
+    }
+  ]
+}
